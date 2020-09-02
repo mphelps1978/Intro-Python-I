@@ -4,4 +4,4 @@
 # YOUR CODE HERE
 b = 2
 e = 65536
-print(b ** e)
+print(b ** e) # Why are you trying to fry my CPU?
