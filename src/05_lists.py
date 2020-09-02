@@ -39,3 +39,7 @@ print(len(x))
 # YOUR CODE HERE
 for n in x:
   print(n * 1000)
+
+########
+## NOTE: I re-applied previous values in each problem (for example: 4), as if I were starting from a fresh list, without all of the previous modifications.
+########

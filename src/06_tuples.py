@@ -40,7 +40,7 @@ t = (1, 2, 5, 7, 99)
 
 def print_tuple(x):
     print(x)
-    
+
 print_tuple(t)  # Prints 1 2 5 7 99, one per line
 
 # Declare a tuple of 1 element then print it
